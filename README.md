@@ -1,0 +1,1 @@
+This repository contains all exercises i've made in 2011, when i started to program something during the time i was at IFBA - Camaçari.The codes is in PASCAL, and the questions are present in docx files.
